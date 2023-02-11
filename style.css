@@ -169,6 +169,7 @@
 #section-two-second-f-item1 > div:nth-child(1) label{
     /* border: 1px solid black; */
     font-size: 20px;
+    width: 30%;
 }
 
 #section-two-second-f-item1 > div:nth-child(1) button{

@@ -1,0 +1,121 @@
+@media screen and (max-width:600px) {
+
+
+    #full-page{
+        width: 100%;
+        height: 1250px;
+      }
+
+    #fluid-container{
+        height: 1150px;
+        width: 80%;
+    }
+
+    #section-two-first{
+        border-right: 1px solid black;
+        width: 30%;
+        height: 1050px;
+    }
+
+    #section-one-first > div:nth-child(1) > input{
+        width: 73%;
+    }
+    
+    #section-two-second-item ul li{
+        width: 31%;
+    }
+
+    #section-two-second-item ul li i{
+        margin-left: 4px;
+    }
+
+    #section-two-second-item ul button{
+        width: 31%;
+    }
+
+    #section-two-second-f-item1 > div:nth-child(1){
+        width: 80%;
+    }
+
+    #section-two-second-f-item1 > div:nth-child(1) label{
+        width: 55%;
+    }
+
+    #section-two-second-f-item2{
+        height: 300px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    #section-two-second-f-item2 > div:nth-child(1){
+        border: 1px solid black;
+        width: 65%;
+        height: 170px;
+        margin-left: 15%;
+        background-color: rgb(207,226,243);
+    }
+    
+    #section-two-second-f-item2 > div:nth-child(2){
+        border: 1px solid black;
+        width: 65%;
+        height: 170px;
+        margin-left: 15%;
+        margin-top: 10%;
+        background-color: rgb(207,226,243);
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:992px) {
+    #full-page{
+        border: 1px solid black;
+        width: 100%;
+        height: 1120px;
+      }
+
+    #fluid-container{
+        border: 1px solid black;
+        height: 1020px;
+        width: 80%;
+        margin: auto;
+        margin-top: 50px;
+    } */
+    
+    /* #section-two-first{
+        width: 30%;
+        height: 920px;
+    }
+
+    #section-two-second-f-item{
+    width: 60%;
+    height: 500px;
+    flex-direction: column;
+    }
+  
+    #section-two-second-f-item1{
+    margin-top: 40px;
+    }
+
+    #section-two-second-f-item div{
+    margin-top: 10px;   
+    } 
+
+}
+
